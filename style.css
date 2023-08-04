@@ -1,0 +1,33 @@
+.header-content {
+  background: url(images/main-content-bg.png);
+}
+
+.alert-text {
+  color: #8d8d8d;
+}
+
+#campaign {
+  background-color: #f5f5f5;
+}
+
+.experience-btn {
+  transition: all 0.3s;
+}
+
+.experience-btn :hover{
+  opacity: 0.8;
+}
+
+.col-sm mt-sm-0 px-0{
+  margin-top: -180px;
+}
+
+.reason-title {
+  text-align: justify;
+  color: #255af2;
+  font-size: 93px;
+}
+
+.point2-content, .point3-content {
+  margin-top: -8px;
+}
